@@ -12,6 +12,10 @@ Possibilities
 - **Networking Events**
 - Live Music Lyrics on Tap
 
+USP
+
+- Convenience
+
 Timeline
 
 - Figure out What prototypes we can do - 10 samples

@@ -5,6 +5,8 @@ type: Note
 
 Possibilities
 
+*
+
 Features:
 
 - Checkins
